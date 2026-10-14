@@ -1,0 +1,2 @@
+1|Campo A|Calle de al lado|12.0|ARCILLOSO|Zanahoria|2026-05-20|2026-05-20|2026-06-01
+2|Campo B|Casa de al lado|12.0|ARCILLOSO|Naranja|2026-05-22|2026-05-22|2026-07-01

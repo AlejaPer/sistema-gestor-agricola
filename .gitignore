@@ -1,0 +1,10 @@
+# Compilados
+*.class
+bin/
+
+# VS Code
+.vscode/
+
+# Otros
+*.zip
+*.log

@@ -1,0 +1,3 @@
+Zanahoria|12|13.0||HORTALIZAS
+Melon|20|2.0||HORTALIZAS
+Naranja|40|10.0||CITRICO

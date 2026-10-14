@@ -1,0 +1,5 @@
+[2026-05-22] Cultivo añadido: Naranja
+[2026-05-22] Campo añadido: Campo B (ID: 2)
+[2026-05-22] Cultivo «Naranja» plantado en campo «Campo B»
+[2026-05-22] Riego en «Campo B» por Pedro
+
